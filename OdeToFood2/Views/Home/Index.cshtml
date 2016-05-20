@@ -1,0 +1,13 @@
+﻿@model IEnumerable<OdeToFood2.Models.Restaurant>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@foreach(var i in Model)
+{
+    <div>
+        <h4>@i.Name</h4>
+        <div>@i.City, @i.Coutry</div>
+        <hr />
+    </div>
+}
