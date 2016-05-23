@@ -3,17 +3,11 @@
     ViewBag.Title = "Home Page";
 }
 
-<form method="get">
+<form method="get" action="@Url.Action("Index")" data-otf-ajax="true" data-otf-target="#restaurantList">
     <input type="text" name="searchTerm" />
     <input type="submit" value="Search By Name" />
 </form>
 
-@foreach(var i in Model)
-{
-    <div>
-        <h4>@i.Name</h4>
-        <div>@i.City, @i.Country</div>
-        <div>Reviews: @i.NumberOfReviews</div>
-        <hr />
-    </div>
-}
+
+@Html.Partial("_Restaurants", Model)
+
