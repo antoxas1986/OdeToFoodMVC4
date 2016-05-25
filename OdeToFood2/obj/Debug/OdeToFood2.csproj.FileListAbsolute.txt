@@ -88,3 +88,7 @@ c:\users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\
 c:\users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\bin\System.Web.Http.WebHost.xml
 c:\users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\obj\Debug\OdeToFood2.Migrations.InitialCreate.resources
 c:\users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\obj\Debug\OdeToFood2.csproj.GenerateResource.Cache
+C:\Users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\bin\PagedList.dll
+C:\Users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\bin\PagedList.Mvc.dll
+C:\Users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\bin\PagedList.xml
+C:\Users\akuznetsov\documents\visual studio 2015\Projects\OdeToFood2\OdeToFood2\bin\PagedList.Mvc.xml
